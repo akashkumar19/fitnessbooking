@@ -1,0 +1,14 @@
+**/__pycache__
+**/.venv
+**/.classpath
+**/.dockerignore
+**/.env
+**/.git
+**/.gitignore
+**/.toolstarget
+**/.vs
+**/.vscode
+**/docker-compose*
+**/Dockerfile*
+LICENSE
+README.md
